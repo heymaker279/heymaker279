@@ -3,4 +3,4 @@
 
 ## Вот что я умею
 
-![https://github.com/heymaker279/Final_homework_of_course](https://img.shields.io/badge/-Репозиторий_с_курсовым_проектом-green?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Репозиторий_с_курсовым_проектом-green?style=for-the-badge&logo=python)https://github.com/heymaker279/Final_homework_of_course
