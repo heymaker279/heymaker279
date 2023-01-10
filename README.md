@@ -1,10 +1,6 @@
 [![Header](https://github.com/heymaker279/heymaker279/blob/master/assets/Screenshot_103.png)
 ](https://github.com/heymaker279/heymaker279)
 
-About Me
+## Вот что я умею
 
-Latest YouTube Videos
-
-Languages and Tools
-
-Follow Me
+![Python](https://img.shields.io/badge/-Репозиторий_с_курсовым_проектом-green?style=for-the-badge&logo=python&href=https://github.com/heymaker279/Final_homework_of_course)
