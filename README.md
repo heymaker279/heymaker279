@@ -13,9 +13,9 @@
 
 * [![Python](https://img.shields.io/badge/-Командный_курсовой_проект_"VK_Bot_Vkinder_на_python"-darkyellow?style=for-the-badge&logo=python)](https://github.com/heymaker279/adpy-team-diplom-main_26_may_2022)
 
-* ![Python](https://img.shields.io/badge/-Домашние_работы_"Базы_данных_для_python_разработчиков"-darkyellow?style=for-the-badge&logo=Postgresql)
+* [![SQL](https://img.shields.io/badge/-Домашние_работы_"Базы_данных_для_python_разработчиков"-darkyellow?style=for-the-badge&logo=Postgresql)](https://github.com/heymaker279/SQL_homeworks/blob/master/README.md)
 
-* ![Django](https://img.shields.io/badge/-Домашние_работы_по_курсу_"django"-darkyellow?style=for-the-badge&logo=Django)
+* [![Django](https://img.shields.io/badge/-Домашние_работы_по_курсу_"django"-darkyellow?style=for-the-badge&logo=Django)](https://github.com/heymaker279/django_homeworks)
 
 * ![Flask](https://img.shields.io/badge/-Домашние_работы_"flask,_asyncio,_aiohttp,_docker"-darkyellow?style=for-the-badge&logo=Flask)
 
