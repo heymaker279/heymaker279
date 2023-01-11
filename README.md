@@ -1,6 +1,3 @@
-[![Header](https://github.com/heymaker279/heymaker279/blob/master/assets/Screenshot_103.png)
-](https://github.com/heymaker279/heymaker279)
-
 ## Привет!  
 
 ### Я **Валеев Ильяс**, разработчик на python.  
