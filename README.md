@@ -14,7 +14,7 @@
 
 * [![Django](https://img.shields.io/badge/-Домашние_работы_по_курсу_"django"-darkyellow?style=social&logo=Django)](https://github.com/heymaker279/heymaker279/blob/master/links/django.md)
 
-* [![Flask](https://img.shields.io/badge/-Домашние_работы_"flask,_asyncio,_aiohttp,_docker"-darkyellow?style=social&logo=Flask)](https://github.com/heymaker279/heymaker279/blob/master/links/web.md)
+* [![Flask](https://img.shields.io/badge/-Домашние_работы_"flask,_asyncio,_aiohttp,_docker,_docker_compose,_celery"-darkyellow?style=social&logo=Flask)](https://github.com/heymaker279/heymaker279/blob/master/links/web.md)
 
 ### Диплом и сертификаты Нетологии:
 
