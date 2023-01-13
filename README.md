@@ -36,15 +36,13 @@
 ---
 ### Контакты:
 
-[![telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram)]()
-[![facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=facebook)]()
-[![linkedin](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)]()
-[![whatsapp](https://img.shields.io/badge/-WhatsApp-white?style=for-the-badge&logo=whatsapp)]()
-[![vkontakte](https://img.shields.io/badge/-Vk-white?style=for-the-badge&logo=VK&logoColor=blue)]()
+[![telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=telegram)](https://t.me/heymaker279)
+[![facebook](https://img.shields.io/badge/-Facebook-white?style=for-the-badge&logo=facebook)](https://www.facebook.com/profile.php?id=100004753351439)
+[![linkedin](https://img.shields.io/badge/-linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/%D0%B8%D0%BB%D1%8C%D1%8F%D1%81-%D0%B2%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2-8b893025a/)
 
 ---
 ### Прочее:
-[![codewars](https://img.shields.io/badge/-codewars-white?style=for-the-badge&logo=codewars&logoColor=red)]()
-[![hackerrank](https://img.shields.io/badge/-hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=darkgreen)]()
+[![codewars](https://img.shields.io/badge/-codewars-white?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/heymaker279)
+[![hackerrank](https://img.shields.io/badge/-hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=darkgreen)](https://www.hackerrank.com/heymaker279)
 
 ---
