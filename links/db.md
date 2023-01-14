@@ -1,5 +1,5 @@
 # Работа с базами данных  
-* [Введение в базы данных. Типы баз данных.](https://u.netology.ru/backend/uploads/lms/tasks/homework_solutions/hashed_file/8/1505228/Screenshot_23.png)  
+* [Введение в базы данных. Типы баз данных.](https://github.com/heymaker279/DBHomework---1)  
 
 ---
 
