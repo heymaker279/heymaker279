@@ -20,6 +20,7 @@
 [![Python](https://img.shields.io/badge/-Профессиональная_работа_с_Python-white?style=social&logo=Python)](https://github.com/heymaker279/heymaker279/blob/master/certificates/Профессиональная%20работа%20с%20Python.pdf)  
 [![Python](https://img.shields.io/badge/-Основы_языка_программирования_Python-white?style=social&logo=Python)](https://github.com/heymaker279/heymaker279/blob/master/certificates/основы%20языка%20программирования.pdf)  
 [![html](https://img.shields.io/badge/-Основы_верстки_сайта-white?style=social&logo=HTML5)](https://github.com/heymaker279/heymaker279/blob/master/certificates/Основы%20верстки%20сайта.pdf)
+
 [![Python](https://img.shields.io/badge/-Тестирование_ПО_с_Нуля_до_Специалиста-white?style=social&logo=Python)](https://github.com/heymaker279/heymaker279/blob/master/certificates/Тестирование%20ПО%20C%20нуля%20до%20специалиста.pdf)  
 [![Postman](https://img.shields.io/badge/-Тестирование_ПО_Postman_для_тестирования_API-white?style=social&logo=Postman&logoColor=black)](https://github.com/heymaker279/heymaker279/blob/master/certificates/Тестирование%20ПО%20Postman%20для%20тестирования%20API.pdf)  
 
